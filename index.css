@@ -1,0 +1,35 @@
+.myphoto{
+    text-align: center;
+}
+
+.name{
+    text-align: center;
+    height: 60px;
+    font-size: 40px;
+    margin: 0 10%;
+    color:white;
+    background-color: black;
+    width: 80%;
+    border-radius: 10px;
+}
+
+
+img{
+    width: 50%;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+html{
+    background-color:floralwhite;
+}
+
+.syumi{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0 10%;
+    border-radius: 5px;
+}
+
+
